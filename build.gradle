@@ -12,6 +12,7 @@ repositories {
 }
 
 dependencies {
+    // 두 가지 문법 모두 가능
     implementation('org.springframework.boot:spring-boot-starter-web')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
 }
